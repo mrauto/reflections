@@ -3,4 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 When you're finished committing your changes, click "Next" to see how to pull those changes to your own computer.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+Because it's risky! it might erase my work!!
+
+You may also want to commit and push your changes. When you're finished, click "Next" and Sarah will go over what to do if you want to share your changes to a repository and you don't have permission to modify the original.
